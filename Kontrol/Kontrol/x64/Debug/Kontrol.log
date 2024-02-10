@@ -1,0 +1,4 @@
+﻿  Task_A.c
+C:\Users\User\source\repos\Kontrol\Kontrol\Task_A.c(20,7): warning C4133: =: несовместимые типы - из "char *" в "int *"
+C:\Users\User\source\repos\Kontrol\Kontrol\Task_A.c(21,7): warning C4133: =: несовместимые типы - из "char *" в "int *"
+  Kontrol.vcxproj -> C:\Users\User\source\repos\Kontrol\x64\Debug\Kontrol.exe
