@@ -1,9 +1,9 @@
-/*ÞÔÈÊÒÈÁ, Ì
-ãðàììèðîâàíasdggè îñíîâû òåîðèè àëãî
-Ëà
--ëîâ Èãîðü Àëåêñàíäâè÷adasd
-ÇAasd
-0dfs132*/
+/*ÞÔÈÊÒÈÁ
+ãðàììèðîâàíasdggè îñíîâû òåî
+
+- Èãîðü Àëåêñàíäâè÷adasd
+Çsd
+0132*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
